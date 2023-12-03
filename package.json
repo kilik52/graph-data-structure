@@ -1,5 +1,5 @@
 {
-  "name": "graph-data-structure",
+  "name": "graph-data-structure-tmp",
   "version": "3.4.0",
   "description": "A graph data structure with topological sort.",
   "files": [
@@ -32,12 +32,12 @@
       "release": true
     },
     "npm": {
-      "publish": false
+      "publish": true
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datavis-tech/graph-data-structure.git"
+    "url": "git+https://github.com/kilik52/graph-data-structure.git"
   },
   "keywords": [
     "graph",
@@ -48,9 +48,9 @@
   "author": "Curran Kelleher",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/datavis-tech/graph-data-structure/issues"
+    "url": "https://github.com/kilik52/graph-data-structure/issues"
   },
-  "homepage": "https://github.com/datavis-tech/graph-data-structure#readme",
+  "homepage": "https://github.com/kilik52/graph-data-structure#readme",
   "devDependencies": {
     "@types/node": "20.4.6",
     "graph-diagrams": "0.5.0",
